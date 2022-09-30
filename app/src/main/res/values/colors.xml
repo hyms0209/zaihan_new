@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="E6E6E6">#FFE6E6E6</color>
+    <color name="translucent">#1A000000</color>
+    <color name="dark_translucent">#8A000000</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="tabBackgroundColor">#2a2c44</color>
+    <color name="tabSelectedBgColor">#062659</color>
+    <color name="tabUnseletedTextColor">#788191</color>
+    <color name="bgDefault">#F8FAFF</color>
+    <color name="dark_navy">#24284A</color>
+    <color name="navy">#14244C</color>
+    <color name="light_navy">#122560</color>
+    <color name="line_color_gray">#DEDEDE</color>
+    <color name="customer_type_bar_normal">#1453B5</color>
+    <color name="customer_type_bar_regular">#1BA8F7</color>
+    <color name="nomal_text">#4B5869</color>
+    <color name="video_font">#B2FFFFFF</color>
+    <color name="content_background">#333758</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="chartWeekBackground">#3094F7</color>
+    <color name="chartWeekendBackground">#1CC7DB</color>
+    <color name="chartWeekColor">#7087FF</color>
+    <color name="chartWeekendColor">#56CCF2</color>3
+    <color name="transparent_a6">#A6000000</color>
+
+    <color name="customer_weekly_bar_normal">#1FAEFF</color>
+    <color name="customer_weekly_bar_highlight">#00A3FF</color>
+
+    <color name="lineChartBlue">#407ADD</color>
+    <color name="gray_text">#8493B0</color>
+    <color name="hint_gray_text">#DDDDDD</color>
+    <color name="lightGray">#97AAC2</color>
+    <color name="light_gray">#999999</color>
+    <color name="main_black">#222222</color>
+    <color name="superLightGray">#EEF2FA</color>
+    <color name="light_gray_text">#C2CADA</color>
+    <color name="cherry_red">#FF493D</color>
+    <color name="more_light_gray">#E6EAF2</color>
+    <color name="little_more_light_gray">#B2BDD6</color>
+    <color name="timezone_divider">#D3DCF2</color>
+    <color name="facebook_color">#3B5999</color>
+    <color name="naver_color">#2EC66F</color>
+    <color name="instagram_color">#DD4A89</color>
+    <color name="windows_blue">#3495af</color>
+
+    <color name="barChartNormalGray">#D8E1F0</color>
+    <color name="barChartHighlightGray">#ABBEDE</color>
+    <color name="barChartNormalSkyblue">#5794FF</color>
+    <color name="barChartHighlightSkyblue">#2978FF</color>
+
+    <color name="light_purple">#726AFD</color>
+    <color name="light_purple_translucent">#CC726AFD</color>
+    <color name="skyblue">#5991FF</color>
+    <color name="light_skyblue">#4E83EE</color>
+    <color name="deep_skyblue">#407ADD</color>
+    <color name="barChart_date_text">#748192</color>
+
+    <color name="inflow_bar_average_bg">#C8D1E5</color>
+    <color name="zaihan_color">#d71e1e</color>
+    <color name="url_color">#AAAAAA</color>
+
+    <!-- rainbow set -->
+    <color name="refresh_default">#009900</color>
+    <color name="refresh_rainbow_1">#FF9900</color>
+    <color name="refresh_rainbow_2">#009900</color>
+    <color name="refresh_rainbow_3">#000099</color>
+    <color name="refresh_rainbow_4">#000000</color>
+
+
+    <color name="black_eighty_percent">#cc000000</color>
+</resources>

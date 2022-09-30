@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:background="@drawable/shape_dialog_box_round"
+        android:orientation="vertical">
+        <ImageButton
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:src="@drawable/ic_close"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:background="@android:color/transparent"
+            android:layout_gravity="right"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="25dp"
+            android:layout_marginEnd="25dp"
+            android:orientation="vertical">
+            <androidx.appcompat.widget.AppCompatTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:maxLines="1"
+                android:textSize="16dp"
+                android:layout_gravity="center_horizontal"
+                android:fontFamily="@font/notosanskr_bold"
+                android:textColor="#111111"
+                android:text="긴급공지 "/>
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="14dp"
+                android:textSize="14dp"
+                android:letterSpacing="0.05"
+                android:lineSpacingExtra="0sp"
+                android:fontFamily="@font/notosanskr_regular"
+                android:textColor="#111111"
+                android:text="BO에서 등록한 긴급 시스템공지 제목이 출력됩니다 "/>
+
+
+        </LinearLayout>
+        <TextView
+            android:id="@+id/btn_confirm"
+            android:layout_width="match_parent"
+            android:layout_height="46dp"
+            android:layout_marginTop="25dp"
+            android:layout_marginBottom="25dp"
+            android:layout_marginStart="25dp"
+            android:layout_marginEnd="25dp"
+            android:clickable="true"
+            android:fontFamily="@font/notosanskr_bold"
+            android:textSize="16dp"
+            android:textColor="@color/white"
+            android:text="확인"
+            android:gravity="center"
+            android:layout_gravity="bottom"
+            android:background="@drawable/shape_dialog_button_round"/>
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

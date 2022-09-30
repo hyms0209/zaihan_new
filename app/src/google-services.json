@@ -1,0 +1,57 @@
+{
+  "project_info": {
+    "project_number": "327868830039",
+    "firebase_url": "https://zaihan-android.firebaseio.com",
+    "project_id": "zaihan-android",
+    "storage_bucket": "zaihan-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327868830039:android:9b5057ca8f4b74cd",
+        "android_client_info": {
+          "package_name": "kr.android.zaihan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327868830039-hs7u898u81tc41a6tltt3gckqvhjucu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.android.zaihan",
+            "certificate_hash": "3076fc072bf80bc15e17c509e55b13265659edb4"
+          }
+        },
+        {
+          "client_id": "327868830039-jlonhceg4j0u617p6oau9akcpkmrgddm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.android.zaihan",
+            "certificate_hash": "11a2ad23b33ca400bdca4947e472205c2f08f0cf"
+          }
+        },
+        {
+          "client_id": "327868830039-itsmdb1c532v18oclof2ii2e2ol76c76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLXT4v1B_FsYRp-OK85QJhJ8CuALSQiWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327868830039-itsmdb1c532v18oclof2ii2e2ol76c76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2978526415933663~7943160087"
+    }
+  ],
+  "configuration_version": "1"
+}
